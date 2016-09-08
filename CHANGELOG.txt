@@ -1,0 +1,10 @@
+This file's purpose is to keep track of what changes have been made in the 
+addition, alteration and removal of school projects. AT a minmum the upload 
+date and title of uploaded or altered work will be added to this file. 
+Descriptions can be found in the readme file based on the title of the work of 
+concern.
+
+################################################################################
+
+9/8/2016
+Heroes 3 website added
